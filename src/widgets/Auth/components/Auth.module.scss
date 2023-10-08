@@ -1,0 +1,24 @@
+
+.authWrap{
+    display: flex;
+    height: 100%;
+    
+    .authSection{
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .vectorSection {
+        width: 50%;
+        background: #FF5A49;
+        position: relative;
+        overflow: hidden;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+    }
+}
